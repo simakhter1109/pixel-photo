@@ -1,5 +1,6 @@
 # Pixel Photo
 From camera roll -> "PIXEL-CORE". Transform your photos into retro pixel art using Python + Pillow.
+ 
 -------------------------------------------------------------------------------------------------------------------------
 Pillow is a Python library for messing with images — resizing, cropping, filtering, transforming and saving them. Perfect for turning your normal pics into pixel-art.
 
